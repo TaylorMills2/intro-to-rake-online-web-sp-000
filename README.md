@@ -1,4 +1,4 @@
-# Intro to Rake
+ # Intro to Rake
 
 ## Objectives
 
